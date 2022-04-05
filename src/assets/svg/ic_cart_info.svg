@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.86" y1="0.116" x2="0.223" y2="0.895" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5c8cf7"/>
+      <stop offset="1" stop-color="#3b4cff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="scale-white-color-0" width="12" height="12" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_492" data-name="Group 492" transform="translate(-19 -196)">
+    <rect id="Rectangle_4609" data-name="Rectangle 4609" width="28" height="28" rx="14" transform="translate(19 196)" fill="url(#linear-gradient)"/>
+    <g id="Mask_Group_455" data-name="Mask Group 455" transform="translate(27 204)" clip-path="url(#clip-path)">
+      <g id="shopping_basket" data-name="shopping basket" transform="translate(0 0.91)">
+        <g id="Layer_2" data-name="Layer 2" transform="translate(0 0)">
+          <g id="Layer_1" data-name="Layer 1">
+            <g id="shopping_basket-2" data-name="shopping basket">
+              <path id="Path_44538" data-name="Path 44538" d="M8.541,15.579H3.463A2.237,2.237,0,0,1,1.316,13.95L.055,9.465A1.378,1.378,0,0,1,1.384,7.711H10.62a1.382,1.382,0,0,1,1.331,1.754L10.691,13.95a2.241,2.241,0,0,1-2.15,1.629Zm-7.157-6.8a.315.315,0,0,0-.253.125.308.308,0,0,0-.053.279l1.263,4.482a1.172,1.172,0,0,0,1.125.851H8.541a1.174,1.174,0,0,0,1.127-.851l1.261-4.482a.319.319,0,0,0-.308-.4Z" transform="translate(-0.002 -5.397)" fill="#fff"/>
+              <path id="Path_44539" data-name="Path 44539" d="M7.518,3.375a.534.534,0,0,1-.376-.908L9.455.154a.532.532,0,0,1,.753.753L7.894,3.218a.532.532,0,0,1-.376.157Z" transform="translate(-4.892 0.002)" fill="#fff"/>
+              <path id="Path_44540" data-name="Path 44540" d="M24.621,3.375a.532.532,0,0,1-.376-.157L21.934.906a.532.532,0,0,1,.753-.753L25,2.467a.534.534,0,0,1-.376.908Z" transform="translate(-15.245 0.002)" fill="#fff"/>
+              <circle id="Ellipse_78" data-name="Ellipse 78" cx="0.851" cy="0.851" r="0.851" transform="translate(5.149 5.395)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

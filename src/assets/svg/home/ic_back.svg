@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4947" data-name="Rectangle 4947" width="20" height="20" transform="translate(16 56)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_596" data-name="Mask Group 596" transform="translate(-16 -56)" clip-path="url(#clip-path)">
+    <path id="chevron-back-outline_2_" data-name="chevron-back-outline (2)" d="M18.433,6.294,10.34,14.387l8.093,8.093" transform="translate(11.334 51.613)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.698"/>
+  </g>
+</svg>

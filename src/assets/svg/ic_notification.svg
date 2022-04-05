@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_8918" data-name="Rectangle 8918" width="12" height="13.2" transform="translate(57 735)" fill="#fff" stroke="#fff" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_16166" data-name="Group 16166" transform="translate(0 -35)">
+    <g id="Media_App_Icon" data-name="Media / App Icon" transform="translate(0 35)">
+      <path id="_9a994352a5947b636cb0d7f800b8c46a213f4a52" data-name="9a994352a5947b636cb0d7f800b8c46a213f4a52" d="M6.06,0h7.88a6.854,6.854,0,0,1,3.642.631,4.3,4.3,0,0,1,1.787,1.787A6.854,6.854,0,0,1,20,6.06v7.88a6.854,6.854,0,0,1-.631,3.642,4.3,4.3,0,0,1-1.787,1.787A6.854,6.854,0,0,1,13.94,20H6.06a6.854,6.854,0,0,1-3.642-.631A4.3,4.3,0,0,1,.631,17.582,6.854,6.854,0,0,1,0,13.94V6.06A6.854,6.854,0,0,1,.631,2.418,4.3,4.3,0,0,1,2.418.631,6.854,6.854,0,0,1,6.06,0Z" fill="#406cf8"/>
+    </g>
+  </g>
+  <g id="Mask_Group_767" data-name="Mask Group 767" transform="translate(-53 -731.601)" clip-path="url(#clip-path)">
+    <g id="cube-outline" transform="translate(57.856 736.029)">
+      <path id="Path_53325" data-name="Path 53325" d="M12.573,9.574V5a.857.857,0,0,0-.426-.74L8.075,1.89a1.284,1.284,0,0,0-1.292,0L2.712,4.26A.857.857,0,0,0,2.286,5V9.574a.857.857,0,0,0,.426.74l4.072,2.37a1.286,1.286,0,0,0,1.292,0l4.072-2.37A.857.857,0,0,0,12.573,9.574Z" transform="translate(-2.286 -1.716)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <path id="Path_53326" data-name="Path 53326" d="M2.465,5.5,7.474,8.447,12.483,5.5M7.474,13.8V8.447" transform="translate(-2.331 -2.662)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    </g>
+  </g>
+</svg>

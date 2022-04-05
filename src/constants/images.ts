@@ -1,0 +1,15 @@
+export default {
+  icon_menu: require('src/assets/images/ic_menu.png'),
+  ic_home: require('src/assets/images/ichome.png'),
+  ic_home_unactive: require('src/assets/images/ichome_unactive.png'),
+  ic_product: require('src/assets/images/icproduct.png'),
+  ic_product_unactive: require('src/assets/images/icproduct_unactive.png'),
+  ic_transaction: require('src/assets/images/ictransaction.png'),
+  ic_transaction_unactive: require('src/assets/images/ictransaction_unactive.png'),
+  ic_account: require('src/assets/images/icaccount.png'),
+  ic_account_unactive: require('src/assets/images/icaccount_unactive.png'),
+  ic_home_left_menu: require('src/assets/images/ic_home.png'),
+  ic_chat: require('src/assets/images/ic_chat.png'),
+  ic_logout: require('src/assets/images/ic_logout.png'),
+  logo: require('src/assets/images/logo.png'),
+};

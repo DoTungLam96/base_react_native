@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">base_abond_demo</string>
+     <string moduleConfig="true" name="CodePushDeploymentKey">aJKZwIplc6fczRq_wxBfsl3S-EFE0TLkHqKzh</string>
+</resources>

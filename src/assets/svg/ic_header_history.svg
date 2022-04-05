@@ -1,0 +1,22 @@
+<svg id="Component_45_10" data-name="Component 45 – 10" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="342" height="44" viewBox="0 0 342 44">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4008" data-name="Rectangle 4008" width="24" height="24" transform="translate(249 13)" fill="#00adab" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Rectangle_1347" data-name="Rectangle 1347" fill="#fff" stroke="#00adab" stroke-width="1">
+    <rect width="342" height="44" rx="8" stroke="none"/>
+    <rect x="0.5" y="0.5" width="341" height="43" rx="7.5" fill="none"/>
+  </g>
+  <g id="Rectangle_4007" data-name="Rectangle 4007" transform="translate(235)" fill="#fff" stroke="#00adab" stroke-width="1">
+    <path d="M0,0H99a8,8,0,0,1,8,8V36a8,8,0,0,1-8,8H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+    <path d="M1,.5H99A7.5,7.5,0,0,1,106.5,8V36A7.5,7.5,0,0,1,99,43.5H1A.5.5,0,0,1,.5,43V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+  </g>
+  <text id="Xác_nhận" data-name="Xác nhận" transform="translate(16 27.5)" font-size="16" font-family="SFProText-Semibold, SF Pro Text" font-weight="600" letter-spacing="-0.024em"><tspan x="0" y="0">Xác nhận</tspan></text>
+  <path id="chevron-down" d="M0,0,6,6l6-6" transform="translate(207 19)" fill="none" stroke="#00adab" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <g id="Mask_Group_46" data-name="Mask Group 46" transform="translate(28 -3)" clip-path="url(#clip-path)">
+    <g id="__TEMP__SVG__" transform="translate(245 10)">
+      <path id="Path_43395" data-name="Path 43395" d="M12,21a1,1,0,0,1,1-1h6a1,1,0,0,1,0,2H13A1,1,0,0,1,12,21ZM8,15a1,1,0,0,1,1-1H23a1,1,0,0,1,0,2H9A1,1,0,0,1,8,15ZM4,9A1,1,0,0,1,5,8H27a1,1,0,0,1,0,2H5A1,1,0,0,1,4,9Z" fill="#00adab" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

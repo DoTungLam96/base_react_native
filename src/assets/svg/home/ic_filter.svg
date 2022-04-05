@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="14.222" viewBox="0 0 16 14.222">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_24" data-name="Rectangle 24" width="16" height="14.222" transform="translate(333 56)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_16" data-name="Mask Group 16" transform="translate(-333 -56)" clip-path="url(#clip-path)">
+    <path id="funnel-outline_1_" data-name="funnel-outline (1)" d="M1.168,2.818l5,5.821a.476.476,0,0,1,.117.309v3.536a.235.235,0,0,0,.16.225l2.375.79a.235.235,0,0,0,.31-.225V8.948a.476.476,0,0,1,.119-.309l5-5.821a.415.415,0,0,0-.314-.685H1.483a.415.415,0,0,0-.316.685Z" transform="translate(333.296 55.287)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+  </g>
+</svg>
